@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @KAPPA-52
 - 🌱 I’m currently learning lua
 - 📫 How to reach me later...
+- Speak portuguese and english
